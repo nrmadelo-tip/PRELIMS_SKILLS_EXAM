@@ -1,0 +1,5 @@
+
+Seaborn
+pyqt5
+pnumpy
+pandas
